@@ -3,7 +3,7 @@ local AboutMe = {
     name = "SON1C",
     profession = "Free Time Developer",
     preferredTechStack = {"lua", "javascript", "mysql", "fivem"},
-    canUse = {"lua", "nodejs", "sql"}
+    canUse = {"lua", "nodejs", "sql", "javascript"}
 }
 
 ```
